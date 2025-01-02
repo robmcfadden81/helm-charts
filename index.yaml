@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo-app:
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2025-01-02T15:55:22.472224198Z"
+    description: A Helm chart for my demo apps
+    digest: 00ccfdb2a08cc64488d4d52532885b9aad76b67d45b940c94f530fa99dd4bd44
+    name: demo-app
+    type: application
+    urls:
+    - https://robmcfadden81.github.io/helm-charts/demo-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-02T15:55:22.471558073Z"
